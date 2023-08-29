@@ -1,0 +1,48 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+header {
+    background-color: #e91e63; /* Rosa */
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Contenido principal */
+main, section {
+    padding: 2rem;
+}
+
+/* Servicios */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+/* Pie de página */
+footer {
+    background-color: #e91e63; /* Rosa */
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
